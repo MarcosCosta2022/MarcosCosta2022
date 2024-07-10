@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Marcos
+
+Recently finished my Bachelor's degree in Informatics and Computing Engineering and have been accepted to continue my education in the form of a Master's degree in Porto University, starting in 2024.
+
+## Some of My Projects
+
+### Second Year
+
+
+
+
+
 
 <!--
 **MarcosCosta2022/MarcosCosta2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
