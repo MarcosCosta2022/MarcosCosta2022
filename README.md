@@ -9,10 +9,6 @@ Recently finished my Bachelor's degree in Informatics and Computing Engineering 
 
 ## Some of My Projects
 
-Here is the corrected table with grammar and spelling mistakes fixed:
-
-Here's the updated table with a '-' in every grade field:
-
 | UC   | Name                  | Description                                                                                                                                                                      | Grade |
 | ---- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | AED  | Aerial Transportation | Program that analyzes a flight network in the form of a graph and generates useful information about that network.                                                               |   -   |
