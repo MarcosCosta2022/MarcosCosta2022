@@ -26,7 +26,7 @@ Here is the corrected table with grammar and spelling mistakes fixed:
 | COMP | Compiler              | Development of a compiler, including optimizations.                                                                                                                              |       |
 | CPD  | Game Server           | A distributed system that implements a queue, both casual and ranked (based on a score), while also avoiding race conditions, slow server due to slow clients, and ensuring fault tolerance. |       |
 | LBAW | Thinker               | A more complete social network website using the Laravel framework.                                                                                                              |       |
-| PI   | Scisup                | A complete website for project management.                                                                                                                                       |       |
+| PI   | Scisup                | A complete website for project management between students and advisers/teachers                                                                                                                                     |       |
 
 <!--
 **MarcosCosta2022/MarcosCosta2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
