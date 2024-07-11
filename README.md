@@ -2,6 +2,11 @@
 
 Recently finished my Bachelor's degree in Informatics and Computing Engineering and have been accepted to continue my education in the form of a Master's degree in Porto University, starting in 2024.
 
+## About me
+
+- 🌱 Finishing my Bachelor's degree
+- 📫 How to reach me: you may use my email - marcos.costa.2016a@gmail.com
+
 ## Some of My Projects
 
 Here is the corrected table with grammar and spelling mistakes fixed:
