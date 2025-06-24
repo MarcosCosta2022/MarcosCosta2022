@@ -35,6 +35,10 @@ Currently in the first yaer of my Master's degree in Informatics and Computing E
 | LBAW | [Thinker](https://github.com/MarcosCosta2022/Projects/tree/main/lbaw2325)               | A more complete social network website using the Laravel framework.                                            |
 | PI   | Scisup                | A complete website for project management.                                                                                                                                       |
 | SDLE | [Amazon Dinamo Copycat](https://github.com/MarcosCosta2022/Projects/tree/main/SDLE) | A distributed system inspired in Amazon Dinamo featuring data partitioning, replication, and consistency protocols.|
+| AC   | [Basketball Playoff Prediction](https://github.com/jmisidro/ML-basketball-playoffs) | Data processing and training and classification model to predict which teams are advancing to the playoffs next year.|
+| DSLE | [LLMs as Development Tools](https://github.com/FEUP-MEIC-DS-2024-25/ai4sd) | The result of multiple teams creating different development aids using LLMs (Gemini) and combining it into a single application. Agile methology.|
+| PRI  | [Finding One Piece](https://github.com/koaLaMoucho/FEUP-PRI) | A document search system using increasingly more complex method (transformer to generate dense vectors of documents and queries and calculate distance for relevance) to retrieve relevant episodes (documents) of One Piece. |
+| SGI  | [3 Projects in THREE.js](https://github.com/MarcosCosta2022/Projects/tree/main/sgi-t08-g03-main) | 3 projects involving THREE.js with increasing difficulty: a scene utilizing basic concepts, a new scene discribing language in json that is rendered by converting it to a THREE.js scene, and an interative ballon race game in THREE.js partially using the previous language for 3D models, map, track, etc.|
 
 <!--
 **MarcosCosta2022/MarcosCosta2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
