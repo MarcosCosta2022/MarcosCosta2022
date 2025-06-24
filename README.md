@@ -34,6 +34,7 @@ Currently in the first yaer of my Master's degree in Informatics and Computing E
 | CPD  | Game Server           | A distributed system that implements a queue, both casual and ranked (based on a score), while also avoiding race conditions, slow server due to slow clients, and ensuring fault tolerance. |
 | LBAW | Thinker               | A more complete social network website using the Laravel framework.                                                                                                              |
 | PI   | Scisup                | A complete website for project management.                                                                                                                                       |
+| SDLE | [Amazon Dinamo Copycat](https://github.com/MarcosCosta2022/Projects/tree/main/SDLE) | A distributed system inspired in Amazon Dinamo featuring data partitioning, replication, and consistency protocols.|
 
 <!--
 **MarcosCosta2022/MarcosCosta2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
